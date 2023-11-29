@@ -1,2 +1,3 @@
 # Pandas_tutorial
-Tis is my first Git Repository
+This is my first Git Repository
+Author - Sk Sohel
